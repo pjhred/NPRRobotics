@@ -12,7 +12,7 @@ import qrcode.image.svg
 # main 브랜치 blob 링크: 스캔하면 GitHub 미리보기가 뜨고,
 # 나중에 같은 경로에 새 커밋을 올리면 QR 수정 없이 최신 버전이 보입니다.
 URL = (
-    "https://github.com/pjhred/NPRRobotics/blob/4679ec89081a1670a1581206159b8483d240c5bb/poster/fig_lhs_3d.png"
+    "https://github.com/pjhred/NPRRobotics.git"
 )
 
 # 출력 위치: 스크립트가 있는 폴더 (어디서 실행하든 동일)
