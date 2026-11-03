@@ -1,1 +1,1 @@
-![Poster](poster/poster.pdf)
+![Poster](poster/poster.png)
