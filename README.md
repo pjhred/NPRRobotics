@@ -1,1 +1,1 @@
-![Poster](poster/fig_lhs_3d.png)
+![Poster](poster/poster.pdf)
